@@ -1,0 +1,26 @@
+{
+  "name": "sistema_clases",
+  "version": "1.0.0",
+  "description": "\"Proyecto para aprender a trabajar con node\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanMaders/SistemaClases.git"
+  },
+  "author": "IM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanMaders/SistemaClases/issues"
+  },
+  "homepage": "https://github.com/IanMaders/SistemaClases#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
+  }
+}
